@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808714325285",
+    "project_id": "engineersacademy-39bd7",
+    "storage_bucket": "engineersacademy-39bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808714325285:android:e06d5c6cf743f027c59ecc",
+        "android_client_info": {
+          "package_name": "com.example.engineers_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808714325285-senl4haeqps82m98t6hksae2lllb2hqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUd-tWVN9J8kBro-unBHYWe4-AHI2cbhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808714325285-senl4haeqps82m98t6hksae2lllb2hqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
